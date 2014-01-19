@@ -1,0 +1,14 @@
+%h1 youtube api experiment - random video selector
+
+%h1 top 10 twitter trends
+- @nyc_trends.each do |trend|
+  = trend.name
+  %br
+%br
+%p You are searching for... 
+= "#{@trend}"  
+%br
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/#{@video}?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
+
