@@ -1,3 +1,24 @@
+<<<<<<< HEAD
 .DS_STORE
 *ds_store
 *.db
+=======
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+>>>>>>> 07330057e3131cd3c7c753721ce7de1cb1e46fde
