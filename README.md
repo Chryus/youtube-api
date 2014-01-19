@@ -1,10 +1,12 @@
 =======
-youtube-api
+#youtube-api
 ===========
 
 Simple sinatra application uses twitter api to generate movie searches via youtube api
 
+=======
 #ratpack
+===========
 
 a simple boilerplate for creating production-ready sinatra apps that use activerecord and sqlite
 
